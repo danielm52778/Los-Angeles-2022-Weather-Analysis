@@ -1,4 +1,5 @@
 # 🌤️ Los Angeles Weather Data Visualization
+*Dataset obtained from Kaggle "Traffic and Weather Datasets" and can be found [here](https://www.kaggle.com/datasets/orvile/traffic-and-weather-datasets).*
 
 This project analyzes and visualizes weather data for Los Angeles using Python. It includes scatter plots to explore variable relationships 
 and circular (polar) plots to represent wind direction patterns.
@@ -34,4 +35,3 @@ The CSV file contains the following weather-related columns:
 - `precip`, `precip_prob`, `precip_type`
 - `solar_radiation`, `solar_energy`, `uv_index`
 - `cloud_cover`, `visibility`, `conditions`, etc.
-
